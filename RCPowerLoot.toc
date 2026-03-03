@@ -1,0 +1,14 @@
+## Interface: 120000, 120001
+## Title: RCPowerLoot
+## Notes: RCLootCouncil companion: adds Raid Power Gain scoring and recommendations per loot session.
+## Author: Crispy
+## Version: 0.1.0
+## OptionalDeps: RCLootCouncil
+## SavedVariables: RCPowerLootDB
+## X-Website: https://github.com/Nocturnal-Crispy/RCPowerLoot
+## X-Repository: https://github.com/Nocturnal-Crispy/RCPowerLoot
+## X-Github: Nocturnal-Crispy/RCPowerLoot
+
+core.lua
+bis.lua
+comms.lua
